@@ -1,5 +1,3 @@
-# suggest1
-
 ## Project setup
 ```
 npm install
