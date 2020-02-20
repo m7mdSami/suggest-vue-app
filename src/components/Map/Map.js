@@ -6,13 +6,9 @@ export default {
     components: {
         HeaderComponent
     },
-    props: {
-        msg: String
-    },
     data() {
         return {
-            // default to Montreal to keep it simple
-            // change this to whatever makes sense
+
             center: {},
             markers: [],
             placeInfo: null,
