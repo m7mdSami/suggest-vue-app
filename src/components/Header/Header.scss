@@ -1,0 +1,14 @@
+$base-color: #2cb3b5;
+
+.header{
+    background-color: $base-color;
+    padding: 15px;
+    display: flex;
+    .logo{
+        background: url('../../assets/logo-header.png') no-repeat;
+        text-indent: -9999px;
+        display: block;
+        height: 42px;
+        width: 180px;
+    }
+}
